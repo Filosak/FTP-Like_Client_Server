@@ -1,0 +1,10 @@
+﻿  FTP_Client.cpp
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(93,32): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(122,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(263,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(287,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(293,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(326,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(413,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\FTP_Client_Server\FTP_Client.cpp(206): warning C4172: returning address of local variable or temporary: buffer
+  FTP_Client_Server.vcxproj -> C:\Users\Lenovo\source\repos\FTP_Client_Server\x64\Debug\FTP_Client.exe

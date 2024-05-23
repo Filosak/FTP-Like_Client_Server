@@ -1,0 +1,12 @@
+﻿  FTP_Server.cpp
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(52,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(169,32): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(182,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(450,27): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(477,35): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(537,53): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(584,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(627,19): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(685,23): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Lenovo\source\repos\FTP_Client_Server\Server\FTP_Server.cpp(339): warning C4715: 'ReadCommand': not all control paths return a value
+  Server.vcxproj -> C:\Users\Lenovo\source\repos\FTP_Client_Server\x64\Debug\Server.exe
